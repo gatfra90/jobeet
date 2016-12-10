@@ -2,73 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b595ea9c-b552-4797-ae19-22556b7d85d9" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/frontend/dev/config/config_app.yml.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/frontend/dev/config/config_autoload.yml.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/frontend/dev/config/config_config_handlers.yml.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/frontend/dev/config/config_databases.yml.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/frontend/dev/config/config_factories.yml.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/frontend/dev/config/config_routing.yml.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/frontend/dev/config/config_settings.yml.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/frontend/dev/config/modules_default_config_filters.yml.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/frontend/dev/config/modules_default_config_module.yml.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/frontend/dev/config/modules_default_config_security.yml.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/frontend/dev/config/modules_default_config_view.yml.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/log/frontend_dev.log" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/sf/sf_admin/css/main.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/sf/sf_admin/images/add.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/sf/sf_admin/images/cancel.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/sf/sf_admin/images/default_icon.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/sf/sf_admin/images/delete.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/sf/sf_admin/images/edit.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/sf/sf_admin/images/error.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/sf/sf_admin/images/filter.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/sf/sf_admin/images/first.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/sf/sf_admin/images/last.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/sf/sf_admin/images/list.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/sf/sf_admin/images/next.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/sf/sf_admin/images/ok.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/sf/sf_admin/images/previous.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/sf/sf_admin/images/reset.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/sf/sf_admin/images/save.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/sf/sf_admin/images/tick.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/sf/sf_admin/js/collapse.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/sf/sf_admin/js/double_list.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/sf/sf_default/css/ie.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/sf/sf_default/css/pngfix.htc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/sf/sf_default/css/screen.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/sf/sf_default/images/bg_body.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/sf/sf_default/images/bg_sfTAlert.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/sf/sf_default/images/bg_sfTLock.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/sf/sf_default/images/bg_sfTMessage.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/sf/sf_default/images/icons/cancel48.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/sf/sf_default/images/icons/colour16.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/sf/sf_default/images/icons/db16.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/sf/sf_default/images/icons/disabled48.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/sf/sf_default/images/icons/edit16.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/sf/sf_default/images/icons/folder16.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/sf/sf_default/images/icons/linkOut16.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/sf/sf_default/images/icons/lock48.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/sf/sf_default/images/icons/ok48.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/sf/sf_default/images/icons/reload16.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/sf/sf_default/images/icons/tools48.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/sf/sf_default/images/sfTLogo.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/sf/sf_default/images/trans.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/sf/sf_web_debug/images/close.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/sf/sf_web_debug/images/config.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/sf/sf_web_debug/images/database.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/sf/sf_web_debug/images/email.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/sf/sf_web_debug/images/error.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/sf/sf_web_debug/images/info.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/sf/sf_web_debug/images/log.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/sf/sf_web_debug/images/memory.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/sf/sf_web_debug/images/reload.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/sf/sf_web_debug/images/sf.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/sf/sf_web_debug/images/time.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/sf/sf_web_debug/images/toggle.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/sf/sf_web_debug/images/view.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/sf/sf_web_debug/images/warning.png" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/apps/frontend/config/settings.yml" afterPath="$PROJECT_DIR$/apps/frontend/config/settings.yml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
     </list>
     <ignored path="jobeet.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -87,8 +21,17 @@
   <component name="FavoritesManager">
     <favorites_list name="jobeet" />
   </component>
+  <component name="FrameworkCommandLineHistory">
+    <commandsHistory>
+      <command text="git push origin master" />
+      <command text="git init" />
+    </commandsHistory>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="mock:///Dummy.txt" root0="SKIP_INSPECTION" />
   </component>
   <component name="JsBuildToolGruntFileManager" detection-done="true" />
   <component name="JsBuildToolPackageJson" detection-done="true" />
@@ -109,7 +52,7 @@
     <OptionsSetting value="true" id="Update" />
     <OptionsSetting value="true" id="Status" />
     <OptionsSetting value="true" id="Edit" />
-    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="1" id="Add" />
     <ConfirmationsSetting value="0" id="Remove" />
   </component>
   <component name="ProjectView">
@@ -155,16 +98,25 @@
       <option name="number" value="Default" />
       <updated>1481382209194</updated>
     </task>
+    <task id="LOCAL-00001" summary="First commit">
+      <created>1481382247407</created>
+      <option name="number" value="00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1481382247407</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="false" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24963397" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.14860907" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Command Line Tools Console" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.329653" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
@@ -182,6 +134,10 @@
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="First commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="First commit" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
